@@ -9,3 +9,6 @@ Example 1: If the large number whose single-digit digitSum is to be found is 976
 3+8 = 11
 1+1 = 2
 Thus, the single-digit digitSum for the number 976592 is 2.
+
+
+# NOTE: Any Optimization in Code is Welcome
